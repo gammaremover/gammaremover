@@ -1,5 +1,7 @@
 # GammaRemover
 
+![GammaRemover — free open-source tools to remove the Made with Gamma watermark: web, CLI, MCP, agent skills, guides](assets/banner.webp)
+
 Free, open-source tools for [Gamma.app](https://gamma.app) users — remove the "Made with Gamma" watermark from PDF and PPTX exports, in the browser, on the command line, or through AI agents.
 
 **[gammaremover.com](https://gammaremover.com)** — the web app. Runs 100% in your browser via WebAssembly: no upload, no signup, no file limits. Available in 14 languages.
